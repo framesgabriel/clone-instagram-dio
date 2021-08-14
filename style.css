@@ -81,11 +81,13 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+    font-weight: 600;
 }
 
 .instagram-logout {
     color: #0095f6;
     margin-top: 1rem;
+    font-weight: 600;
 }
 
 .not-account {
@@ -94,6 +96,7 @@ body {
 
 .link-blue {
     color: #0095f6;
+    font-weight: 600;
 }
 
 .get-the-app {
