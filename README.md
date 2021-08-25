@@ -1,4 +1,4 @@
-![snake game with javascript banner](https://github.com/framesgabriel/banners-readme/blob/main/readme-instagram-clone.jpg "instagram clone with html and css")
+![snake game with javascript banner](https://imgur.com/zhPPnT7 "instagram clone with html and css")
 # Clone do Instagram com HTML e CSS
 
 Durante o Bootcamp **HTML Web Developer**, da [Digital Innovation One](https://web.digitalinnovation.one/users/gabrieldframeschi), foram passados diversos conceitos sobre **HTML5** e **CSS3**.
